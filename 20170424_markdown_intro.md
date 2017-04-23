@@ -1,6 +1,7 @@
 ![center](images/importgong4py.png)
 Markdown - 1. intro
 ===
+
 making HTML document with ease
 
 based on Github Flavored Markdown(GFM) rules
@@ -130,30 +131,35 @@ Images
 ---
 
 - Reading from local directory
+
 ```
 ![simple Gong4.py image](images/Gong4py.png "optional title")
 ```
 ![simple Gong4.py image](images/Gong4py.png "optional title")
 
 - Reading from URL
+
 ```
 ![We copy & paste from](https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg)
 ```
 ![We copy & paste from](https://upload.wikimedia.org/wikipedia/commons/0/02/Stack_Overflow_logo.svg)
 
 - Usage of alternative text
+
 ```
 ![alternative text when it cannot load the image required](images/theresnosuchfile.png)
 ```
 ![alternative text when it cannot load the image required](images/theresnosuchfile.png)
 
 - Resizing image
+
 ```
 <img src="images/Gong4py.png" alt="Just use HTML" style="width: 222px;"/>
 ```
 <img src="images/Gong4py.png" alt="Just use HTML" style="width: 222px;"/>
 
 - Aligning image to center
+
 ```
 <p align="center">
 <img src="images/Gong4py.png" alt="Just use HTML too" style="width: 222px;"/>
@@ -162,6 +168,7 @@ Images
 <img src="images/Gong4py.png" alt="align to right works" style="width: 222px;"/>
 </p>
 ```
+
 <p align="center">
 <img src="images/Gong4py.png" alt="Just use HTML too" style="width: 222px;"/>
 </p>
