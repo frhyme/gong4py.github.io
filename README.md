@@ -1,4 +1,5 @@
-# Welcome to Gong4.py
+Welcome to Gong4.py
+===
 
 ![Image](https://gong4py.github.io/images/importgong4py.png)
 
@@ -25,7 +26,7 @@ Python이 아니더라도 오픈소스 소프트웨어 코딩 관련된 내용�
 
 [2017. 4. 17. Convolutional Neural Net 1](https://gong4py.github.io/20170417_cnn "by Taehoon")
 
-[2017. 4. 24 Markdown 1. intro](https://gong4py.github.io/20170424_markdown_intro "by JuneTech")
+[2017. 4. 24. Markdown 1. intro](https://gong4py.github.io/20170424_markdown_intro "by JuneTech")
 
 ---
 ## We use Markdown
