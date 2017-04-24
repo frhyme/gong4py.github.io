@@ -1,6 +1,6 @@
-![center](images/importgong4py.png)
-Markdown - 1. intro
-===
+![importgong4py](images/importgong4py.png)
+# Markdown - 1. intro
+
 making HTML document with ease
 
 based on Github Flavored Markdown(GFM) rules
@@ -18,6 +18,7 @@ Table of contents
 1. Links
 1. Code insertion & syntax highlighting
 1. etc.
+1. Setting GFM preview on Atom/VScode
 
 ---
 
@@ -258,6 +259,41 @@ from computer to computer(with different markdown renderers)
 - Awesome productivity
 - Cross-platform
 
+Setting GFM preview on Atom & VScode
+---
+
+1. Atom
+
+    - Markdown preview is now default-installed package
+    - Preview toggle: `Ctrl+Shift+M`
+
+    ![markdown-preview-settings](images/GFM_look_atom.PNG)
+    - Recommended packages
+      - Markdown-preview-enhanced
+        - all-in-one package
+        - Same toggle button
+        - In preview menu, right-click and select:
+
+        ![markdown-enhanced-export1](images/mpe_pdf_export1.png)
+
+        ![markdown-enhanced-export2](images/mpe_pdf_export2.png)        
+
+2. VScode
+
+    - Markdown preview is also default-installed package
+    - Preview toggle: `Ctrl+Shift+.`
+
+    ![markdown-preview-settings](images/GFM_look_vscode.PNG)
+    - Recommended packages
+      - Markdown PDF
+      - Markdown+math
+    - GFM Setting
+      - [markdownpad-github.css](https://github.com/aliencube/markdownpad-github/blob/master/markdownpad-github.css) file is uploaded on Gong4py Dropbox
+      - In vscode setting, do this:
+
+      ![GFM-settings](images/GFM_setting_vscode.PNG)
+
+
 ---
 
 Reference
@@ -273,5 +309,7 @@ Reference
 [List of syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown) by codebase
 
 [Image center alignment](http://stackoverflow.com/questions/12090472/github-readme-md-center-image) on stackoverflow
+
+[Enabling GFM on VScode](http://blog.aliencube.org/ko/2016/07/06/markdown-in-visual-studio-code/) by Aliencube Community (Korean)
 
 ---
