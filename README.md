@@ -28,7 +28,9 @@ Python이 아니더라도 오픈소스 소프트웨어 코딩 관련된 내용�
 
 [2017. 4. 24. Markdown 1. intro](https://gong4py.github.io/20170424_markdown_intro "by JuneTech")
 
-[2017. 5. 24. Convolutional Neural Net 2](https://gong4py.github.io/20170524_CNN_2.md "by Taehoon")
+[2017. 5. 24. Convolutional Neural Net 2](https://gong4py.github.io/20170524_CNN_2 "by Taehoon")
+
+[2017. 5. 29. Conda package manager](https://gong4py.github.io/20170529_conda1 "by JuneTech")
 
 ---
 ## We use Markdown
